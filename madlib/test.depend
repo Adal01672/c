@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1631888628 source:c:\users\adalz\onedrive\documents\github\c++\project1\test\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+	<ctime>
+	<string>
+
+1631888628 source:c:\users\adalz\onedrive\documents\github\c++\project1\madlib\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+	<ctime>
+	<string>
+
