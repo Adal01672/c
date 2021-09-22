@@ -1,3 +1,12 @@
+
+
+
+keywords for the currency
+
+
+
+
+
 1.usd => united states dollars
 2.pound=> Pounds
 3.euro => Euro
