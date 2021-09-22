@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632267715 source:c:\users\adalz\onedrive\documents\github\c++\project1\currency converter\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+
